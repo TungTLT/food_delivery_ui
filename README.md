@@ -21,7 +21,7 @@ Home screen             |  Cart screen
 
 * Clone the repository
 ```
-git clone https://github.com/TungTLT/food-delivery-ui.git
+git clone https://github.com/TungTLT/food_delivery_ui.git
 ```
 
 ### Executing program
